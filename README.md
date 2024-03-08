@@ -5,3 +5,5 @@
 3. Given an array of distinct elements. Find the third largest element in it.
 
 4. Given an array Arr of size N, print the second largest distinct element from an array. If the second largest element doesn't exist then return -1.
+
+5. Given a String S, reverse the string without reversing its individual words. Words are separated by dots.
