@@ -9,3 +9,5 @@
 5. Given a String S, reverse the string without reversing its individual words. Words are separated by dots.
 
 6. Given a sorted array a[] of size n, delete all the duplicated elements from a[] & modify the array such that only distinct elements should be present there.
+
+7. Given an array arr[] of size N, check if it is sorted in non-decreasing order or not ?
