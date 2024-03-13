@@ -11,3 +11,5 @@
 6. Given a sorted array a[] of size n, delete all the duplicated elements from a[] & modify the array such that only distinct elements should be present there.
 
 7. Given an array arr[] of size N, check if it is sorted in non-decreasing order or not ?
+
+8. Given an array A of positive integers. Your task is to find the leaders in the array. An element of array is a leader if it is greater than or equal to all the elements to its right side. The rightmost element is always a leader. 
