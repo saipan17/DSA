@@ -19,3 +19,5 @@
 10.Write a program to find the transpose of a square matrix of size N*N. Transpose of a matrix is obtained by changing rows to columns and columns to rows.
 
 11.The task is to complete the insert() function which is used to implement Insertion Sort.
+
+12.Given a string str which may contain lowercase and uppercase characters. The task is to remove all duplicate characters from the string and find the resultant string. The order of remaining characters in the output should be same as in the original string.
